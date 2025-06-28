@@ -1,0 +1,98 @@
+---
+title: "DSA 557 1.0 Scientific Writing and Communication"
+author: 
+  - "Dr Thiyanga S. Talagala"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#253494",
+  secondary_color = "#c7e9b4",
+  inverse_header_color = "#a1d99b"
+)
+```
+
+<style type="text/css">
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 4em 1em 4em;
+}
+</style>
+
+# What is Scientific Writing and Communication?
+
+
+Scientific writing and communication refer to the skills and practices involved in effectively conveying scientific information to various audiences. 
+
+---
+
+# Importance of scientific writing
+
+1. Sharing your research
+
+2. Reproducibility
+
+3. Funding and career advancement
+
+3. Public engagement
+
+---
+
+# Types of Scientific Documents
+
+## Where do we find scientific writing?
+
+---
+
+# Practical tips and tools?
+
+- Use simple, straight forward language
+
+- Use clear headings and subheadings
+
+- Always revise your work and seek feedback
+
+- Use a plagiarism checker
+
+---
+
+# Selecting a research problem
+
+## How would you define a research problem in your own word?
+
+---
+
+
+
+---
+
+
+## Scientific writing with overleaf
+
+Sign up at https://www.overleaf.com/
+
+In-class demo
+

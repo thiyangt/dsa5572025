@@ -1,0 +1,24 @@
+\begin{table}
+\begin{tabular}{ccccc}
+  1 & 2 & 3 & 4 & 5 \\
+  6 & 7 & 8 & 9 & 10 \\
+\end{tabular}
+\caption{\label{tab:somelabel} Caption}
+\end{table}
+
+
+\begin{equation}
+\label{eqn:somelabel}
+e=mc^2
+\end{equation}
+
+You can reference the tables and equations above from inside a LaTeX block using \ref{tab:somelabel} and \ref{eqn:somelabel}.
+
+\pagebreak
+\begin{figure}[here]
+\includegraphics[width=0.9\textwidth]{images.jpg}
+\caption{A sample image of a penguin}
+\label{fig:pen}
+\end{figure}
+
+##Note that the order of these lines is important: The \caption tag must come before the \label tag.
