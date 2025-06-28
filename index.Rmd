@@ -77,22 +77,114 @@ Scientific writing and communication refer to the skills and practices involved 
 
 - Use a plagiarism checker
 
----
-
-# Selecting a research problem
-
-## How would you define a research problem in your own word?
-
----
-
 
 
 ---
 
+# Research papers/ Journal Article /Manuscript (before publication)/ Scholarly Article
 
+---
+
+# Review the articles shared in Google Classroom. 
+
+# What writing structures do they follow?
+
+---
+
+# Examine the articles available in the Google Classroom. 
+
+# In what ways do their purposes and contents differ?
+
+---
+
+# Selecting good papers
+
+In-class demo
+
+---
+
+## Writing introduction
+
+**Hook**
+
+A compelling opening sentence or idea to grab the reader's attention.
+
+---
+## Types of hooks
+
+**1. Statistic or Fact Hook**
+
+Start with a surprising or impactful statistic or fact related to your topic.
+
+Example:
+
+Over 80% of the world’s wastewater is released into the environment untreated, affecting millions of people daily.
+
+---
+
+## Types of hooks (cont.)
+
+**2. Question Hook**
+
+Begin with a thought-provoking question to engage the reader.
+
+---
+## Types of hooks (cont.)
+
+**3. Quotation Hook**
+
+Use a relevant and powerful quote from a well-known figure or authoritative source.
+
+Example:
+
+In 1976, a British statistician named George Box wrote the famous line, “All models are wrong, some are useful.
+
+---
+## Types of hooks (cont.)
+
+**4. Anecdotal Hook**
+
+Start with a brief personal story or anecdote that illustrates the issue.
+
+Example:
+
+When I first visited the rural village, I noticed children walking miles to access clean water—a reality for millions across the globe.
+
+---
+## Types of hooks (cont.)
+
+**5. Historical Hook**
+
+Begin by referencing a historical event or background related to the topic.
+
+Example:
+
+In 1854, John Snow mapped a cholera outbreak in London—marking the birth of modern epidemiology. Today, we face similar challenges with disease mapping in developing nations.
+
+---
+## Types of hooks (cont.)
+
+**6. Contrasting Statement Hook**
+
+Present a contradiction or surprising contrast to pique curiosity.
+
+Example:
+
+Despite technological advancements, rural students in many countries still lack access to basic educational resources.
+
+---
+## Types of hooks (cont.)
+
+**7. Definition Hook**
+
+Define a term or concept that is central to your topic, especially if it has varied meanings.
+
+Example:
+
+Machine learning interpretability refers to the degree to which a human can understand the reasoning behind a machine learning model's predictions.
+
+---
 ## Scientific writing with overleaf
 
 Sign up at https://www.overleaf.com/
-
-In-class demo
 
