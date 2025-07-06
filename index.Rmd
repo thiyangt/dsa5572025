@@ -94,6 +94,8 @@ Scientific writing and communication refer to the skills and practices involved 
 
 6. [Calendar-based graphics for visualizing...](https://pdf.earo.me/calendar-vis.pdf)
 
+7. [A Projection Pursuit Forest Algorithm for Supervised Classification](https://www.tandfonline.com/doi/epdf/10.1080/10618600.2020.1870480?needAccess=true)
+
 ---
 
 # Research papers/ Journal Article /Manuscript (before publication)/ Scholarly Article
