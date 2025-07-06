@@ -365,3 +365,112 @@ In-class discussion
 - Significance → Structure of the Paper
 
     "The remainder of this paper is organized as follows:"
+    
+---
+
+## Literature Review
+
+---
+## What are the purposes of a literature review?
+
+- To learn what has already been done
+
+- To identify gaps and opportunities
+
+- To ensure you're not just repeating what others have already done
+
+- To familiarize yourself with the current state of knowledge on your topic
+
+---
+## How can I access published research papers?
+
+- Academic databases and search engines
+
+- Speak with the librarian at your institution to find out if you have access to any subscription databases
+
+---
+## Free databases/ search engines
+
+- Google scholar
+
+- Directory of Open Access Journal (DOAJ)
+
+- PubMed
+
+- Bielefeld Academic Search Engine (BASE)
+
+- E-Theses Online Service (EThOS)
+
+---
+## Free databases/ search engines (cont.)
+
+- Social Science Research Network (SSRN)
+
+- WorldWideScience
+
+- Semantic Scholar - “intelligent” academic search engine. Machine learning algorithm is used to prioritize the most important research
+
+- Public Library of Science (PLOS)
+
+---
+## Free databases/ search engines (cont.)
+
+- Microsoft Academic Search
+
+- Dimensions
+
+---
+## Databases that are available through subscription
+
+- Scopus
+
+- Web of science
+
+---
+
+If you can access the full text of a paper, it could be because of a number of reasons, for example
+
+- Open access
+
+- Authenticated user
+
+- Author-archived copy
+
+---
+## Dealing with paywalls
+
+- Speak with the librarian
+
+- Write to the corresponding author
+
+- Use unpaywall to see if there is an open access version of the full text of the paper
+
+---
+## What is unpaywall?
+
+Browser extension that will automatically point out full text or open-access version of research papers
+
+Example: https://unpaywall.org/
+
+---
+## Preprints and repositories
+
+- arXiv
+
+- bioRxiv
+
+- Institutional repositories
+
+- OpenDOAR website
+
+---
+##  Ways to structure a literature review
+
+ 1. Thematic Structure (by topic/theme)
+ 
+ 2. Chronological Structure (by time)
+ 
+ 3. Methodological Structure (by method/model)
+
+ 
+---
