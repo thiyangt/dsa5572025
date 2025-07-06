@@ -246,6 +246,11 @@ Sign up at https://www.overleaf.com/
 ---
 
 # Lecture 2
+
+[Forecasting and trading on the VIX futures market: A neural network approach based on open to close returns and coincident indicators](https://www.sciencedirect.com/science/article/abs/pii/S0169207019301372)
+
+[Prediction of the Indian summer monsoon using a stacked autoencoder and ensemble regression model](https://www.sciencedirect.com/science/article/abs/pii/S0169207020300479)
+
 ---
 #  Different structures to break down the background section
 
@@ -473,4 +478,20 @@ Example: https://unpaywall.org/
  3. Methodological Structure (by method/model)
 
  
+---
+## What are the different types of review? 
+
+- Systematic Reviews
+
+- Meta-Analyses
+
+- Umbrella
+
+- Comparative Effectiveness
+
+- Scoping
+
+- Rapid
+
+- Narrative
 ---
