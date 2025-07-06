@@ -5,3 +5,7 @@
 [https://thiyanga-scientificwriting.netlify.app/slides/slides/lesson1viz#1](https://thiyanga-scientificwriting.netlify.app/slides/slides/lesson1viz#1)
 
 [https://thiyanga-spatiotemporal.netlify.app/posts/quarto/1_intro.html#/title-slide](https://thiyanga-spatiotemporal.netlify.app/posts/quarto/1_intro.html#/title-slide)
+
+## Python
+
+[https://thiyangt.github.io/python_quarto/](https://thiyangt.github.io/python_quarto/)
