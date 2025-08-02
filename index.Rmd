@@ -526,6 +526,9 @@ Reading: [Doing a Systematic Review: A Student's Guide](https://books.google.lk/
   - Suggesting directions for future research
  
 --- 
+#
+---
+
 ## Literature Review: Writing style 1
 
 1. Summarize what they found
@@ -820,6 +823,7 @@ Example: “This study shows that rainfall is a key predictor of dengue.”
 ---
 
 **Refer to the table/figure itself – Use present tense**
+
 Example:
 
 "Table 2 shows the monthly dengue incidence."
@@ -829,6 +833,7 @@ Example:
 ---
 
 **Describe what the data reveals – Use past tense**
+
 Example:
 
 "As shown in Figure 1, dengue cases increased sharply in January."
@@ -838,6 +843,7 @@ Example:
 ---
 
 **Interpret or generalize from results – Use present tense**
+
 Example:
 
 "These results suggest a seasonal pattern of transmission."
@@ -850,6 +856,7 @@ Example:
 ---
 
 ##  Highlight a real-world problem
+
 Start with the issue your research addresses.
 
 Example:
@@ -936,3 +943,263 @@ Example: [https://www.sciencedirect.com/science/article/abs/pii/S001379522100467
 - No citations or references
 
 - Keep highlights standalone
+
+---
+
+## Tools for Graphical Abstract
+
+[https://tidbitapp.io/](https://tidbitapp.io/)
+
+---
+
+## Active Listening
+
+Not Just Absorbing Like a Sponge:
+
+Active listening isn’t about passively taking in everything said. Instead, it involves engaging your mind, processing the information, and responding thoughtfully.
+
+[Reading](https://kentruongphysiotherapy.wordpress.com/2016/10/11/active-listening/)
+
+---
+
+## Thinking Hard: Cognitive Load Theory
+
+Understanding how people process information is essential in scientific writing and presentations. Cognitive load refers to the amount of mental effort required to process information.
+
+Intrinsic cognitive load
+
+Extraneous cognitive load
+
+Germane cognitive load
+
+Thinking hard and motivation
+
+---
+
+## Business Insight
+Generating new ideas in scientific contexts requires a structured approach to creativity.
+
+Preparation
+
+Incubation
+
+Illumination
+
+Verification
+
+---
+
+## Presentation skills
+
+- Preparing for a presentation
+
+- Organizing the presentation material
+
+- Writing the presentation
+
+- Deciding on the presentation method
+
+- Working with Visual Aids
+
+---
+## Preparing a Research Presentation: Common Challenges
+
+ 1. Selecting the Right Content
+ 
+ 2. Time Management
+ 
+ 3. Audience Understanding
+ 
+ 4. Visual Design Issues
+ 
+ 5. Nervousness / Speaking Anxiety
+ 
+ 6. Handling Difficult Questions
+ 
+In-class: How to Address Common Research Presentation Challenges
+
+
+
+---
+## Structure for a Research Presentation
+---
+### 1. Title Slide
+
+Project title, your name, institution, date.
+
+### 2. Introduction
+
+- Brief background
+
+Research problem or gap
+
+- Objectives or research question
+
+---
+
+### 3. Methods
+
+Study design, data collection, analysis approach
+
+Keep it visual and concise
+
+---
+
+### 4. Results
+
+Highlight key findings with graphs/tables
+
+Focus on patterns or takeaways, not all data
+
+---
+
+### 5. Discussion
+
+Interpret results in context
+
+Compare with existing research
+
+Mention limitations briefly
+
+
+### 6. Conclusion
+Summarize main findings
+
+Implications or next steps
+
+End with a clear take-home message
+
+---
+
+### 7. Acknowledgements (Optional)
+Funders, collaborators, institutions
+
+### 8. Q&A Slide
+Simple “Thank You” or “Questions?” with your contact info
+
+---
+## Effective Research Presentation Tips
+
+1. Go from Known to Unknown
+
+2. Keep It Simple and Clear
+
+3. Use Visuals Wisely
+
+4. Practice with a Timer
+
+5. Know Your Audience
+
+6. Start Strong, End Strong
+
+7. Use Storytelling
+
+8. Be Prepared for Questions
+
+---
+
+## Example Presentation
+
+[Example](https://thiyangt.github.io/whyR2021keynote/#1)
+
+---
+
+## Storytelling in Research Communication
+
+“Facts tell, but stories sell.” — Storytelling makes your research memorable, relatable, and impactful.
+
+Storytelling in research is not about gossip or casual talk — it’s a purposeful communication tool used to engage, explain, and persuade.
+
+---
+
+# Example Story Telling Process
+
+---
+
+**Set the Scene**
+– Give context (When? Where? Who? Why?)
+Example: “In 2019, a small town in Sri Lanka experienced its worst dengue outbreak…”
+
+**Introduce the Problem**
+– What went wrong? What challenge existed?
+Example: “Despite existing mosquito control efforts, the number of cases kept rising.”
+
+**Describe the Journey**
+– What did you do? How did you explore or solve it?
+Example: “We collected climate and health data across 12 districts and built a forecasting model…”
+
+---
+
+**Deliver the Outcome**
+– What did you find or change?
+Example: “The model predicted outbreaks 3 weeks in advance with 90% accuracy.”
+
+**Reflect on the Meaning**
+– Why does it matter? What’s next?
+Example: “This approach could help prevent outbreaks in vulnerable regions.”
+---
+
+## Effective Storytelling Hooks for Research
+
+In-class-discussion
+
+---
+
+# Properties of a Good Story
+
+---
+
+**Clear Purpose**
+
+The story supports your main message or research objective.
+
+Every part of the story should guide the audience toward understanding your key point.
+
+Example: A story about a disease outbreak that introduces your forecasting model.
+
+---
+
+**Relatable Characters or Context**
+
+Audiences connect better when there are people or situations they can identify with.
+
+In research, this could be a patient, a researcher, a village, or a decision-maker.
+
+Example: “A local health officer was overwhelmed when dengue cases surged…”
+
+---
+
+**Conflict or Challenge**
+
+Good stories have a problem to solve or a question to answer.
+
+In research, this is often the research gap or the real-world problem you’re addressing.
+
+Example: “Despite spraying, dengue cases kept rising…”
+
+---
+**Resolution or Discovery**
+
+The story shows how the problem was tackled, ideally ending with a solution, insight, or lesson learned.
+
+Example: “By integrating weather data into our models, we improved outbreak predictions by 80%.”
+
+---
+
+**Emotional or Intellectual Engagement**
+
+The story should make the audience feel something (curiosity, empathy, urgency) or think deeply.
+
+Tip: Use vivid language, real numbers, or human outcomes to increase impact.
+
+---
+
+**Structure (Beginning, Middle, End)**
+
+A good story has a logical flow:
+
+Beginning: Sets the scene
+
+Middle: Builds the problem/conflict
+
+End: Delivers insight or resolution
